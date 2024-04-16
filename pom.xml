@@ -76,13 +76,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ghislain Releases Nexus Repository</name>
-	      <url>http://52.91.192.255:8081/repository/ghislain24/</url>
+	      <url>http://54.221.36.9:8081/#browse/browse:ghislain24</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ghislain Snapshot Nexus Repository </name>
-	      <url>http://52.91.192.255:8081/repository/ghislain24-snapshot/</url>
+	      <url>http://54.221.36.9:8081/#browse/browse:ghislain24-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -92,7 +92,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://52.91.229.230:9000/</sonar.host.url>
+		<sonar.host.url>http://54.197.75.225:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>  
 		<sonar.login>fdf0c774621af1791cad359e2c91a30bb06fa1ad</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
